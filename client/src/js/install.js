@@ -18,9 +18,7 @@ butInstall.addEventListener('click', async () => { const promptEvent = window.de
 
 // TODO: Add an handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => 
-{ window.deferredPrompt = null; 
-butInstall.textContent = "installed";
-});
+{ window.deferredPrompt = null;});
 
 
 
