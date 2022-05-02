@@ -106,7 +106,13 @@ Run the app
 
 
 
+https://user-images.githubusercontent.com/94213022/166172443-6758b37c-54fb-41c6-906b-7f7b9098557c.mp4
+
+
+
 ## App Images
+![Screen shot1](https://user-images.githubusercontent.com/94213022/166172447-dd21ff7a-2633-4698-94b3-d2e443a3ae17.png)
+![Screen shot2](https://user-images.githubusercontent.com/94213022/166172449-6c1638c3-51bd-4f31-a3a7-25879236c63c.png)
 
 
 
