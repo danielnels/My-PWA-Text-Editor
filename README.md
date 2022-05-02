@@ -65,7 +65,7 @@ THEN I should have proper build scripts for a webpack application
 
 To use this application:
 
-* Clone the GitHub repository at:https://github.com/danielnels/My-Social-Network-API.git
+* Clone the GitHub repository at:https://github.com/danielnels/My-PWA-Text-Editor.git
 Download and install node.js.
 
 * To automatically install dependencies, run "npm install from the root directory" 
@@ -74,7 +74,7 @@ Download and install node.js.
 Run the app
 
 * Watch the demo 
-* npm start [To start the server] and use http://localhost:3001/ or use this link: and click the install button.
+* npm start [To start the server] and use http://localhost:3001/ or use this link:https://awesome-texteditor.herokuapp.com/ and click the install button.
 
 ## Technologies Used
 
@@ -110,9 +110,9 @@ Run the app
 
 
 ## Deployed Application Links
-Git Hub:https://github.com/danielnels/My-Social-Network-API.git
+Git Hub:https://github.com/danielnels/My-PWA-Text-Editor.git
 
-Deployed Application:
+Deployed Application:https://awesome-texteditor.herokuapp.com/
 
 ## Questions
   Please e-mail me if you have any questions about this App
