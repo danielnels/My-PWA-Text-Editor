@@ -14,6 +14,7 @@ A Progressive Web Application (PWA) text editor that runs in the browser. The ap
   * [Description](#description)
   * [User Story](#user-story)
   * [How it Works](#how-it-works )
+  * [App Images](#app-images)
   * [Walkthrough Demo](#walkthrough-demo)
   * [Deployed Application Links](#deployed-application-links)
   * [Usage](#usage)
@@ -105,7 +106,7 @@ Run the app
 
 
 
-
+## App Images
 
 
 
